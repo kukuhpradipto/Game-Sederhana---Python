@@ -6,5 +6,6 @@ def welcome_message () :
     
     print(f"{style}")
     print(f"** {welcome} **")
+
     print(f"{style}")
 
